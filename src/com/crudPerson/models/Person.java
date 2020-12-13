@@ -3,10 +3,10 @@ package com.crudPerson.models;
 public class Person {
 	
 	
-	private int id;
-	private String name;
-	private String description;
-	private String CIN;
+	protected int id;
+	protected String name;
+	protected String description;
+	protected String CIN;
 	
 	public Person() {
 		
